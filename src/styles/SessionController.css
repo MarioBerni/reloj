@@ -1,0 +1,13 @@
+#session-label {
+  box-sizing: border-box;
+  margin: 4%;
+  text-align: center;
+  border-radius: 40px; 
+  border: 8px outset #1b50e3;
+  padding: 4%;
+}
+
+#session-length {
+  margin:  0% 10%;
+}
+

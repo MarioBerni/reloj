@@ -1,0 +1,15 @@
+#timer-label {
+  box-sizing: border-box;
+  margin: 4%;
+  text-align: center;
+  border-radius: 20px; 
+  border: 8px outset #ffffff;
+  padding: 4%;
+}
+
+#time-left {
+  margin-top: 10%;
+}
+
+
+

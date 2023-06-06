@@ -1,0 +1,32 @@
+#button {
+  margin: 4%;
+  text-align: center;
+}
+
+#start_stop {
+  background-color: green;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+#start_stop:hover {
+  background-color: darkgreen;
+}
+
+#reset {
+  background-color: red;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+#reset:hover {
+  background-color: darkred;
+}
